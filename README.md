@@ -1,4 +1,4 @@
-# JSONDataApp
+# RetrieveJSONDataApp
 Mobile Application Development Assignment 2 part A
 
 ## Purpose of this assignment
